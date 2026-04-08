@@ -1,10 +1,3 @@
-# SYSTEM SPECIFICATION
-
-All modules must follow this format:
-[MODULE] <message>
-
----
-
 ## Expected Final Output:
 
 [AUTH] Operator verified

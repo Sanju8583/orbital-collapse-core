@@ -4,7 +4,7 @@ A satellite control system simulation.
 
 ## Run
 ```
-python main.py
+python verify.py
 ```
 
 ## Expected Output
