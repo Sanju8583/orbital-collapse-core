@@ -19,7 +19,7 @@ def check_system():
     
    
     try:
-        launch_sequence()
+        dispatcher.launch_sequence()
         print("✅ Launch sequence: OK")
     except Exception as e:
         print("❌ Launch sequence failed")
