@@ -1,2 +1,8 @@
 def check_permissions():
-    return "[AUTH] ACCESS GRANTED"
+    
+  if(check_permission==TRUE):
+    
+    return"[AUTH] granted"
+  else:
+    return NO 
+
