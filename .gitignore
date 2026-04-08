@@ -1,3 +1,4 @@
+# Event files
 chaos_setup.sh
 inject_chaos.sh
 setup_missions.sh
@@ -5,3 +6,16 @@ game/
 game_engine.sh
 deploy_event.sh
 event/
+
+# Python cache (VERY IMPORTANT)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
